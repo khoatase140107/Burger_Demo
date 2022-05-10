@@ -1,0 +1,4 @@
+State là 1 phương thức của Component
+Event hanlding
+
+
